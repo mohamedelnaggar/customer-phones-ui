@@ -7,7 +7,7 @@ Single Page UI App for Customer Phones by using Angular.
 
 Steps to run the app:
 ```sh
-git clone https://github.com/elsayedellabad/phones-ui.git
+git clone https://github.com/mohamedelnaggar/customer-phones-ui.git
 cd customer-phones-ui
 docker build -t customer-phones-ui:latest  .
 docker run -d -p 4200:80 customer-phones-ui:latest
